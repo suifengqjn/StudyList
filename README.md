@@ -66,4 +66,7 @@
 - 渐变色环形进度条
 [https://github.com/suifengqjn/TBCycleProgress](https://github.com/suifengqjn/TBCycleProgress)
 
+- 一键检测并输出工程中国际化未翻译文案
+[https:https://github.com/suifengqjn/TranslateTool](https://github.com/suifengqjn/TranslateTool)
+
 
